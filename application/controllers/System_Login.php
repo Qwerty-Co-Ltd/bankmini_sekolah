@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Bank_Mini extends CI_Controller {
+class System_Login extends CI_Controller {
 
 	public function index()
 	{
